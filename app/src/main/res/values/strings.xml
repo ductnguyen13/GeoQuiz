@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz2</string>
+    <string name="question_basketball">Stephen Curry is the greatest shooter ever.</string>
+    <string name="question_vietnam">Hue city is the capital of Viet Nam.</string>
+    <string name="question_antimal">An ant can lift 1,000 times its body weight.</string>
+    <string name="question_space_travel">A money was the first non-human to go into space.</string>
+    <string name="question_island">Greenland is the largest island in the world.</string>
+    <string name="question_food">Caesar Salad originates from Italy.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+</resources>
